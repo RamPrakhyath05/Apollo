@@ -5,6 +5,7 @@
 - Run applications
 - Search the web
 - Do system actions (shutdown, restart etc.)
+  
 All while you are working on some task of yours.
 
 ## Tech Stack
@@ -13,11 +14,12 @@ All while you are working on some task of yours.
 - Groq API (LLM - llama-3)
 - edge-tts (Text-To-Speech)
 - mpg123 (Audio playback)
-
-
+  
 ## 🚀 Setup & Installation
 
 Follow these steps to get **Apollo** up and running on your system:
+
+#### Disclaimer : Built for Linux systems ( for now :| )
 
 ### 1. Clone the Repository
 
