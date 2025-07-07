@@ -2,8 +2,8 @@
 ## An assistant for multitasking
 
 **Apollo** is an assistant, which can help you:
-- Run applications for you
-- Search the web for you
+- Run applications
+- Search the web
 - Do system actions (shutdown, restart etc.)
 All while you are working on some task of yours.
 
