@@ -1,0 +1,33 @@
+# === Python stuff ===
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# === Virtual environments ===
+venv/
+env/
+.venv/
+.env/
+
+# === Vosk models ===
+models/
+
+# === OS/IDE junk ===
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# === Logs and dumps ===
+*.log
+*.tmp
+*.bak
+*.old
+
+# === Edge TTS temp files (just in case) ===
+*.mp3
+*.wav
